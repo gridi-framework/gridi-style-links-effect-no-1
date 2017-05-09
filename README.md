@@ -1,4 +1,4 @@
-# Gridi Style Links Efect No 1
+# Gridi Style Links Effect No 1
 
 ## Install
 `bower install gridi-style-links-effect-no-1`
